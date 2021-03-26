@@ -1,6 +1,6 @@
 diablo-js
 =========
-
+hey there!
 Isometric minimal-code style game at html5 canvas and javascript
 
 Demo
